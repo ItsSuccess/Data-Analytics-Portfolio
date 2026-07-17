@@ -78,7 +78,7 @@ The findings highlight that malaria control requires multiple approaches, includ
 
 ## Dashboard Preview
 
-![Nigeria Malaria Dashboard](images/malaria_dashboard.png)
+![Nigeria Malaria Dashboard](images/Malaria Analysis Dashboard.png)
 
 ---
 
